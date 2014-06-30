@@ -1,0 +1,38 @@
+{
+  "name": "passport-oauth2-client-referer",
+  "version": "0.1.0",
+  "description": "OAuth 2.0 client referer authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "oauth",
+    "oauth2",
+    "authentication",
+    "authorization",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oblador/passport-oauth2-client-referer.git"
+  },
+  "bugs": {
+    "url": "http://github.com/oblador/passport-oauth2-client-referer/issues"
+  },
+  "author": {
+    "name": "Joel Arvidsson",
+    "email": "joel@oblador.se",
+    "url": "http://oblador.se/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./index.js",
+  "dependencies": {
+    "passport": ">=0.1.1"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+}
